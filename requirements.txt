@@ -1,0 +1,6 @@
+simpledbf
+azure-storage-blob
+sqlalchemy
+pyodbc
+pandas
+pyreadstat
